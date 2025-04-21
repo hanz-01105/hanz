@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Data/Business/Financial Analyst | Sophomore | Passionate about Data & Finance</h3>
 
 ## 📌 About Me  
-- 🎓 Sophomore studying **Business Analytics** at **University of Massachusetts Boston**  
+- 🎓 Junior studying **Business Analytics** at **University of Massachusetts Boston**  
 - 📊 Volunteer Data Analyst at **U-ACCESS**
 - - 🔭 I’m currently working on [Government Inpatient Hospital](https://github.com/hanh-analytics/Medicare-Inpatient-Hospital)
 - 💡 Passionate about **data-driven decision-making, financial analytics, and business strategy**
