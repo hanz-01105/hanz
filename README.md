@@ -4,7 +4,7 @@
 ## 📌 About Me  
 - 🎓 Junior studying **Business Analytics** at **University of Massachusetts Boston**  
 - 📊 Volunteer Data Analyst at **U-ACCESS**
-- - 🔭 I’m currently working on [Government Inpatient Hospital](https://github.com/hanh-analytics/Medicare-Inpatient-Hospital)
+- 🔭 I’m currently working on [Government Inpatient Hospital](https://github.com/hanh-analytics/Medicare-Inpatient-Hospital)
 - 💡 Passionate about **data-driven decision-making, financial analytics, and business strategy**
 - 👯 I’m looking to collaborate on [Stock Price Direction](https://github.com/hanh-analytics/Stock-Price-Direction) 
 - 🌱 Currently learning **Python, SQL, Power BI, Tableau, Plotly, Machine Learning, and aim to get Level 1 CFA**  
