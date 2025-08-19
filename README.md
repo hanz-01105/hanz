@@ -1,29 +1,137 @@
-<h1 align="center">Hi 👋, I'm Hanh</h1>
-<h3 align="center">🚀 Aspiring Data/Business/Financial Analyst | Sophomore | Passionate about Data & Finance</h3>
+# 📊 Hanh Le | Data & Business Analytics Professional
 
-## 📌 About Me  
-- 🎓 Junior studying **Business Analytics** at **University of Massachusetts Boston**  
-- 📊 Volunteer Data Analyst at **U-ACCESS**
-- 🔭 I’m currently working on [Government Inpatient Hospital](https://github.com/hanh-analytics/Medicare-Inpatient-Hospital)
-- 💡 Passionate about **data-driven decision-making, financial analytics, and business strategy**
-- 👯 I’m looking to collaborate on [Stock Price Direction](https://github.com/hanh-analytics/Stock-Price-Direction) 
-- 🌱 Currently learning **Python, SQL, Power BI, Tableau, Plotly, Machine Learning, and aim to get Level 1 CFA**  
-- 🎯 Seeking **internship opportunities in data/finance analytics**  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+Data+%26+Financial+Analyst;Business+Analytics+Student;Data-Driven+Decision+Maker;Python+%26+SQL+Enthusiast" alt="Typing SVG" />
+</div>
 
-- 📫 How to reach me **katele2277@gmail.com**
-
-- ⚡ Fun fact **I love meditating, going to gym and studying astrology!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hanh le" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hanh le" height="30" width="40" /></a>
+<p align="center">
+  <strong>Junior | University of Massachusetts Boston | Business Analytics</strong><br>
+  Transforming data into actionable insights for strategic business decisions
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:katele2277@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/hanh-le"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/hanz-01105"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanh-analytics&show_icons=true&locale=en&layout=compact" alt="hanh-analytics" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanh-analytics&show_icons=true&locale=en" alt="hanh-analytics" /></p>
+## 🎯 Professional Summary
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanh-analytics&" alt="hanh-analytics" /></p>
+Data-driven Business Analytics student with proven experience in **AI research**, **financial modeling**, and **tech consulting**. Currently working on cutting-edge projects at Stanford University and Congero Technology Group, with quantifiable achievements including 90% CNN diagnostic accuracy, 25% process optimization, and 30% KPI visibility improvements. Passionate about leveraging analytics to solve complex business problems and drive strategic decision-making.
+
+---
+
+## 💼 Current Focus & Experience
+
+### 🤖 **AI Research Assistant** | Stanford University (Dr. Benjamin Liu)
+*Engineering CNNs with 90% diagnostic accuracy • 35% error reduction • 40% faster data pipelines*
+
+### 💼 **Financial Analyst Intern** | Congero Technology Group
+*25% faster month-end close • 18% improved forecast precision • 30% enhanced KPI visibility*
+
+### 🌐 **Responsible Tech Intern** | The Kigumi Group
+*Market research across Asian networks • AI ethics content strategy • Cyber resilience education*
+
+### 📈 **Active Projects**
+- **[Government Inpatient Hospital Analysis](https://github.com/hanh-analytics/Medicare-Inpatient-Hospital)**  
+  *Analyzing Medicare data to identify healthcare trends and cost optimization opportunities*
+
+- **[Stock Price Direction Prediction](https://github.com/hanh-analytics/Stock-Price-Direction)**  
+  *Developing machine learning models for financial market analysis*  
+  **🤝 Open for collaboration!**
+
+---
+
+## 🛠️ Technical Arsenal
+
+<div align="center">
+
+### Programming & Analytics
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Intermediate-ED8B00?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+### Data Visualization & BI
+![Power BI](https://img.shields.io/badge/Power_BI-Advanced-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-Advanced-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Expert-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+### Machine Learning & Data Science
+![Pandas](https://img.shields.io/badge/Pandas-Advanced-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Advanced-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Advanced-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+### Cloud & Development Tools
+![AWS](https://img.shields.io/badge/AWS-Intermediate-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-Learning-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Advanced-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 Career Objectives
+
+- 📊 **Immediate Goal**: Secure internship opportunities in **Data/Financial Analytics**
+- 📜 **Professional Development**: Pursuing **CFA Level 1** certification
+- 🚀 **Long-term Vision**: Become a strategic data leader driving business transformation
+
+---
+
+## 🌱 Continuous Learning Journey
+
+<div align="center">
+
+| **Current Focus** | **Mastering** | **Exploring** |
+|:-----------------:|:-------------:|:-------------:|
+| CNN Development | Financial ETL Workflows | CFA Level I Prep |
+| Market Research | AWS CloudWatch Integration | Advanced SQL |
+| AI Ethics Content | Power BI Dashboards | Quantitative Analysis |
+
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanz-01105&show_icons=true&theme=default&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hanz-01105&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanz-01105&layout=compact&theme=default)
+
+</div>
+
+---
+
+## 🌟 Personal Philosophy
+
+*"Data tells stories, but analytics reveals the plot. I'm passionate about uncovering the narrative hidden in numbers and translating complex data into strategic business advantages."*
+
+**Beyond Analytics**: When I'm not diving into datasets, you'll find me:
+- 🧘 **Meditating** - Finding clarity and focus
+- 💪 **At the gym** - Building physical and mental resilience  
+- ⭐ **Studying astrology** - Exploring patterns in a different dimension
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always excited to discuss **data analytics**, **financial modeling**, and **business strategy**. Whether you're looking for collaboration on projects, internship opportunities, or just want to chat about the latest trends in data science, I'd love to hear from you!
+
+<div align="center">
+  <strong>📧 katele2277@gmail.com</strong>
+</div>
+
+---
+
+<div align="center">
+  <sub>💡 <em>"Turning data into decisions, insights into impact"</em></sub>
+</div>
